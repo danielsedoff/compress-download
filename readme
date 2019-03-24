@@ -1,0 +1,11 @@
+compress-download
+
+This PHP script allows you to choose a directory on the server side, 
+input your password and download this directory as a ZIP file.
+
+Depending on the directory size and on the server conditions, 
+this can take a while. 
+
+The default password is 12345
+
+It relies on the php-zip extension. 
